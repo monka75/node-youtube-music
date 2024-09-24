@@ -4,7 +4,7 @@ export default {
       capabilities: {},
       client: {
         clientName: 'WEB_REMIX',
-        clientVersion: '0.1',
+        clientVersion: '1.20240918.01.00',
       },
     },
   },
